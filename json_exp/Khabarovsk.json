@@ -1,0 +1,1616 @@
+{
+    "current_condition": [
+        {
+            "FeelsLikeC": "5",
+            "FeelsLikeF": "41",
+            "cloudcover": "0",
+            "humidity": "29",
+            "lang_ru": [
+                {
+                    "value": "Солнечно"
+                }
+            ],
+            "lang_xx": [
+                {
+                    "value": "Солнечно"
+                }
+            ],
+            "observation_time": "06:39 AM",
+            "precipInches": "0.0",
+            "precipMM": "0.0",
+            "pressure": "1012",
+            "pressureInches": "30",
+            "temp_C": "8",
+            "temp_F": "46",
+            "uvIndex": "1",
+            "visibility": "10",
+            "visibilityMiles": "6",
+            "weatherCode": "113",
+            "weatherDesc": [
+                {
+                    "value": "Sunny"
+                }
+            ],
+            "weatherIconUrl": [
+                {
+                    "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                }
+            ],
+            "winddir16Point": "W",
+            "winddirDegree": "279",
+            "windspeedKmph": "19",
+            "windspeedMiles": "12"
+        }
+    ],
+    "nearest_area": [
+        {
+            "areaName": [
+                {
+                    "value": "Дидон"
+                }
+            ],
+            "country": [
+                {
+                    "value": "Russia"
+                }
+            ],
+            "latitude": "51.500",
+            "longitude": "136.000",
+            "population": "0",
+            "region": [
+                {
+                    "value": "Khabarovsk"
+                }
+            ],
+            "weatherUrl": [
+                {
+                    "value": "https://www.worldweatheronline.com/v2/weather.aspx?q=51.5,136"
+                }
+            ]
+        }
+    ],
+    "request": [
+        {
+            "query": "Lat 51.63 and Lon 136.12",
+            "type": "LatLon"
+        }
+    ],
+    "weather": [
+        {
+            "astronomy": [
+                {
+                    "moon_illumination": "8",
+                    "moon_phase": "Waning Crescent",
+                    "moonrise": "03:52 AM",
+                    "moonset": "05:15 PM",
+                    "sunrise": "07:08 AM",
+                    "sunset": "06:19 PM"
+                }
+            ],
+            "avgtempC": "2",
+            "avgtempF": "36",
+            "date": "2026-10-08",
+            "hourly": [
+                {
+                    "DewPointC": "-12",
+                    "DewPointF": "10",
+                    "FeelsLikeC": "-5",
+                    "FeelsLikeF": "23",
+                    "HeatIndexC": "0",
+                    "HeatIndexF": "33",
+                    "WindChillC": "-5",
+                    "WindChillF": "23",
+                    "WindGustKmph": "55",
+                    "WindGustMiles": "34",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "41",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "1",
+                    "chanceofremdry": "99",
+                    "chanceofsnow": "6",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "4",
+                    "cloudcover": "0",
+                    "diffRad": "0.0",
+                    "humidity": "38",
+                    "lang_ru": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1012",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "0",
+                    "tempF": "33",
+                    "time": "0",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+                        }
+                    ],
+                    "winddir16Point": "W",
+                    "winddirDegree": "273",
+                    "windspeedKmph": "23",
+                    "windspeedMiles": "14"
+                },
+                {
+                    "DewPointC": "-12",
+                    "DewPointF": "10",
+                    "FeelsLikeC": "-6",
+                    "FeelsLikeF": "22",
+                    "HeatIndexC": "-0",
+                    "HeatIndexF": "31",
+                    "WindChillC": "-6",
+                    "WindChillF": "22",
+                    "WindGustKmph": "51",
+                    "WindGustMiles": "32",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "57",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "1",
+                    "chanceofremdry": "99",
+                    "chanceofsnow": "11",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "3",
+                    "cloudcover": "0",
+                    "diffRad": "0.0",
+                    "humidity": "39",
+                    "lang_ru": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1011",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "-0",
+                    "tempF": "31",
+                    "time": "300",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+                        }
+                    ],
+                    "winddir16Point": "W",
+                    "winddirDegree": "268",
+                    "windspeedKmph": "19",
+                    "windspeedMiles": "12"
+                },
+                {
+                    "DewPointC": "-14",
+                    "DewPointF": "8",
+                    "FeelsLikeC": "-6",
+                    "FeelsLikeF": "22",
+                    "HeatIndexC": "-1",
+                    "HeatIndexF": "31",
+                    "WindChillC": "-6",
+                    "WindChillF": "22",
+                    "WindGustKmph": "34",
+                    "WindGustMiles": "21",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "65",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "1",
+                    "chanceofremdry": "99",
+                    "chanceofsnow": "11",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "2",
+                    "cloudcover": "0",
+                    "diffRad": "0.0",
+                    "humidity": "37",
+                    "lang_ru": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1010",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "-1",
+                    "tempF": "31",
+                    "time": "600",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+                        }
+                    ],
+                    "winddir16Point": "WSW",
+                    "winddirDegree": "246",
+                    "windspeedKmph": "18",
+                    "windspeedMiles": "11"
+                },
+                {
+                    "DewPointC": "-13",
+                    "DewPointF": "9",
+                    "FeelsLikeC": "0",
+                    "FeelsLikeF": "32",
+                    "HeatIndexC": "2",
+                    "HeatIndexF": "36",
+                    "WindChillC": "0",
+                    "WindChillF": "32",
+                    "WindGustKmph": "14",
+                    "WindGustMiles": "9",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "13",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "1",
+                    "chanceofremdry": "99",
+                    "chanceofsnow": "1",
+                    "chanceofsunshine": "98",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "0",
+                    "diffRad": "59.0",
+                    "humidity": "32",
+                    "lang_ru": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1011",
+                    "pressureInches": "30",
+                    "shortRad": "173.2",
+                    "tempC": "2",
+                    "tempF": "36",
+                    "time": "900",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Sunny"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                        }
+                    ],
+                    "winddir16Point": "WSW",
+                    "winddirDegree": "250",
+                    "windspeedKmph": "7",
+                    "windspeedMiles": "4"
+                },
+                {
+                    "DewPointC": "-13",
+                    "DewPointF": "9",
+                    "FeelsLikeC": "5",
+                    "FeelsLikeF": "41",
+                    "HeatIndexC": "7",
+                    "HeatIndexF": "44",
+                    "WindChillC": "5",
+                    "WindChillF": "41",
+                    "WindGustKmph": "14",
+                    "WindGustMiles": "9",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "100",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "98",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "0",
+                    "diffRad": "89.8",
+                    "humidity": "24",
+                    "lang_ru": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1011",
+                    "pressureInches": "30",
+                    "shortRad": "536.3",
+                    "tempC": "7",
+                    "tempF": "44",
+                    "time": "1200",
+                    "uvIndex": "2",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Sunny"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                        }
+                    ],
+                    "winddir16Point": "WSW",
+                    "winddirDegree": "245",
+                    "windspeedKmph": "8",
+                    "windspeedMiles": "5"
+                },
+                {
+                    "DewPointC": "-9",
+                    "DewPointF": "15",
+                    "FeelsLikeC": "5",
+                    "FeelsLikeF": "42",
+                    "HeatIndexC": "8",
+                    "HeatIndexF": "47",
+                    "WindChillC": "5",
+                    "WindChillF": "42",
+                    "WindGustKmph": "32",
+                    "WindGustMiles": "20",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "1",
+                    "chanceofremdry": "100",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "98",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "2",
+                    "cloudcover": "0",
+                    "diffRad": "85.9",
+                    "humidity": "27",
+                    "lang_ru": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1012",
+                    "pressureInches": "30",
+                    "shortRad": "491.1",
+                    "tempC": "8",
+                    "tempF": "47",
+                    "time": "1500",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Sunny"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                        }
+                    ],
+                    "winddir16Point": "W",
+                    "winddirDegree": "275",
+                    "windspeedKmph": "20",
+                    "windspeedMiles": "12"
+                },
+                {
+                    "DewPointC": "-9",
+                    "DewPointF": "16",
+                    "FeelsLikeC": "1",
+                    "FeelsLikeF": "34",
+                    "HeatIndexC": "4",
+                    "HeatIndexF": "38",
+                    "WindChillC": "1",
+                    "WindChillF": "34",
+                    "WindGustKmph": "16",
+                    "WindGustMiles": "10",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "4",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "1",
+                    "chanceofremdry": "99",
+                    "chanceofsnow": "4",
+                    "chanceofsunshine": "98",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "0",
+                    "diffRad": "48.6",
+                    "humidity": "39",
+                    "lang_ru": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1014",
+                    "pressureInches": "30",
+                    "shortRad": "84.5",
+                    "tempC": "4",
+                    "tempF": "38",
+                    "time": "1800",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Sunny"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                        }
+                    ],
+                    "winddir16Point": "WNW",
+                    "winddirDegree": "291",
+                    "windspeedKmph": "9",
+                    "windspeedMiles": "5"
+                },
+                {
+                    "DewPointC": "-9",
+                    "DewPointF": "15",
+                    "FeelsLikeC": "-3",
+                    "FeelsLikeF": "27",
+                    "HeatIndexC": "-0",
+                    "HeatIndexF": "32",
+                    "WindChillC": "-3",
+                    "WindChillF": "27",
+                    "WindGustKmph": "16",
+                    "WindGustMiles": "10",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "51",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "2",
+                    "chanceofremdry": "98",
+                    "chanceofsnow": "11",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "0",
+                    "diffRad": "0.0",
+                    "humidity": "50",
+                    "lang_ru": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1016",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "-0",
+                    "tempF": "32",
+                    "time": "2100",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+                        }
+                    ],
+                    "winddir16Point": "WSW",
+                    "winddirDegree": "254",
+                    "windspeedKmph": "9",
+                    "windspeedMiles": "5"
+                }
+            ],
+            "maxtempC": "8",
+            "maxtempF": "47",
+            "mintempC": "-1",
+            "mintempF": "30",
+            "sunHour": "11.0",
+            "totalSnow_cm": "0.0",
+            "uvIndex": "2"
+        },
+        {
+            "astronomy": [
+                {
+                    "moon_illumination": "3",
+                    "moon_phase": "Waning Crescent",
+                    "moonrise": "05:13 AM",
+                    "moonset": "05:27 PM",
+                    "sunrise": "07:10 AM",
+                    "sunset": "06:17 PM"
+                }
+            ],
+            "avgtempC": "3",
+            "avgtempF": "38",
+            "date": "2026-10-09",
+            "hourly": [
+                {
+                    "DewPointC": "-9",
+                    "DewPointF": "15",
+                    "FeelsLikeC": "-3",
+                    "FeelsLikeF": "27",
+                    "HeatIndexC": "1",
+                    "HeatIndexF": "34",
+                    "WindChillC": "-3",
+                    "WindChillF": "27",
+                    "WindGustKmph": "32",
+                    "WindGustMiles": "20",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "24",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "2",
+                    "chanceofremdry": "99",
+                    "chanceofsnow": "8",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "2",
+                    "cloudcover": "0",
+                    "diffRad": "0.0",
+                    "humidity": "45",
+                    "lang_ru": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1017",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "1",
+                    "tempF": "34",
+                    "time": "0",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+                        }
+                    ],
+                    "winddir16Point": "WSW",
+                    "winddirDegree": "242",
+                    "windspeedKmph": "15",
+                    "windspeedMiles": "9"
+                },
+                {
+                    "DewPointC": "-9",
+                    "DewPointF": "16",
+                    "FeelsLikeC": "-4",
+                    "FeelsLikeF": "24",
+                    "HeatIndexC": "-2",
+                    "HeatIndexF": "29",
+                    "WindChillC": "-4",
+                    "WindChillF": "24",
+                    "WindGustKmph": "10",
+                    "WindGustMiles": "7",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "81",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "3",
+                    "chanceofremdry": "97",
+                    "chanceofsnow": "15",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "0",
+                    "diffRad": "0.0",
+                    "humidity": "56",
+                    "lang_ru": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1017",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "-2",
+                    "tempF": "29",
+                    "time": "300",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+                        }
+                    ],
+                    "winddir16Point": "WSW",
+                    "winddirDegree": "254",
+                    "windspeedKmph": "7",
+                    "windspeedMiles": "4"
+                },
+                {
+                    "DewPointC": "-9",
+                    "DewPointF": "16",
+                    "FeelsLikeC": "-6",
+                    "FeelsLikeF": "22",
+                    "HeatIndexC": "-3",
+                    "HeatIndexF": "27",
+                    "WindChillC": "-6",
+                    "WindChillF": "22",
+                    "WindGustKmph": "7",
+                    "WindGustMiles": "4",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "92",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "4",
+                    "chanceofremdry": "96",
+                    "chanceofsnow": "17",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "0",
+                    "diffRad": "0.0",
+                    "humidity": "61",
+                    "lang_ru": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1018",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "-3",
+                    "tempF": "27",
+                    "time": "600",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+                        }
+                    ],
+                    "winddir16Point": "SW",
+                    "winddirDegree": "236",
+                    "windspeedKmph": "7",
+                    "windspeedMiles": "4"
+                },
+                {
+                    "DewPointC": "-8",
+                    "DewPointF": "17",
+                    "FeelsLikeC": "-0",
+                    "FeelsLikeF": "31",
+                    "HeatIndexC": "2",
+                    "HeatIndexF": "36",
+                    "WindChillC": "-0",
+                    "WindChillF": "31",
+                    "WindGustKmph": "21",
+                    "WindGustMiles": "13",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "12",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "2",
+                    "chanceofremdry": "99",
+                    "chanceofsnow": "2",
+                    "chanceofsunshine": "98",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "0",
+                    "diffRad": "64.9",
+                    "humidity": "45",
+                    "lang_ru": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1018",
+                    "pressureInches": "30",
+                    "shortRad": "161.4",
+                    "tempC": "2",
+                    "tempF": "36",
+                    "time": "900",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Sunny"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                        }
+                    ],
+                    "winddir16Point": "WSW",
+                    "winddirDegree": "239",
+                    "windspeedKmph": "9",
+                    "windspeedMiles": "6"
+                },
+                {
+                    "DewPointC": "-9",
+                    "DewPointF": "15",
+                    "FeelsLikeC": "8",
+                    "FeelsLikeF": "46",
+                    "HeatIndexC": "9",
+                    "HeatIndexF": "48",
+                    "WindChillC": "8",
+                    "WindChillF": "46",
+                    "WindGustKmph": "11",
+                    "WindGustMiles": "7",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "100",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "98",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "0",
+                    "diffRad": "90.0",
+                    "humidity": "26",
+                    "lang_ru": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1018",
+                    "pressureInches": "30",
+                    "shortRad": "524.6",
+                    "tempC": "9",
+                    "tempF": "48",
+                    "time": "1200",
+                    "uvIndex": "2",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Sunny"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                        }
+                    ],
+                    "winddir16Point": "WSW",
+                    "winddirDegree": "244",
+                    "windspeedKmph": "8",
+                    "windspeedMiles": "5"
+                },
+                {
+                    "DewPointC": "-9",
+                    "DewPointF": "17",
+                    "FeelsLikeC": "11",
+                    "FeelsLikeF": "52",
+                    "HeatIndexC": "11",
+                    "HeatIndexF": "52",
+                    "WindChillC": "11",
+                    "WindChillF": "52",
+                    "WindGustKmph": "8",
+                    "WindGustMiles": "5",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "100",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "98",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "0",
+                    "diffRad": "87.0",
+                    "humidity": "24",
+                    "lang_ru": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1017",
+                    "pressureInches": "30",
+                    "shortRad": "479.3",
+                    "tempC": "11",
+                    "tempF": "52",
+                    "time": "1500",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Sunny"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                        }
+                    ],
+                    "winddir16Point": "W",
+                    "winddirDegree": "276",
+                    "windspeedKmph": "3",
+                    "windspeedMiles": "2"
+                },
+                {
+                    "DewPointC": "-6",
+                    "DewPointF": "21",
+                    "FeelsLikeC": "4",
+                    "FeelsLikeF": "38",
+                    "HeatIndexC": "5",
+                    "HeatIndexF": "41",
+                    "WindChillC": "4",
+                    "WindChillF": "38",
+                    "WindGustKmph": "14",
+                    "WindGustMiles": "9",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "1",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "98",
+                    "chanceofrain": "11",
+                    "chanceofremdry": "81",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "100",
+                    "diffRad": "46.8",
+                    "humidity": "43",
+                    "lang_ru": [
+                        {
+                            "value": "Пасмурно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Пасмурно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1017",
+                    "pressureInches": "30",
+                    "shortRad": "51.5",
+                    "tempC": "5",
+                    "tempF": "41",
+                    "time": "1800",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "122",
+                    "weatherDesc": [
+                        {
+                            "value": "Overcast "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                        }
+                    ],
+                    "winddir16Point": "SW",
+                    "winddirDegree": "231",
+                    "windspeedKmph": "8",
+                    "windspeedMiles": "5"
+                },
+                {
+                    "DewPointC": "-8",
+                    "DewPointF": "18",
+                    "FeelsLikeC": "1",
+                    "FeelsLikeF": "34",
+                    "HeatIndexC": "2",
+                    "HeatIndexF": "36",
+                    "WindChillC": "1",
+                    "WindChillF": "34",
+                    "WindGustKmph": "16",
+                    "WindGustMiles": "10",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "11",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "98",
+                    "chanceofrain": "12",
+                    "chanceofremdry": "79",
+                    "chanceofsnow": "11",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "100",
+                    "diffRad": "0.0",
+                    "humidity": "48",
+                    "lang_ru": [
+                        {
+                            "value": "Пасмурно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Пасмурно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1018",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "2",
+                    "tempF": "36",
+                    "time": "2100",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "122",
+                    "weatherDesc": [
+                        {
+                            "value": "Overcast "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                        }
+                    ],
+                    "winddir16Point": "W",
+                    "winddirDegree": "280",
+                    "windspeedKmph": "5",
+                    "windspeedMiles": "3"
+                }
+            ],
+            "maxtempC": "11",
+            "maxtempF": "52",
+            "mintempC": "-3",
+            "mintempF": "27",
+            "sunHour": "9.0",
+            "totalSnow_cm": "0.0",
+            "uvIndex": "2"
+        },
+        {
+            "astronomy": [
+                {
+                    "moon_illumination": "1",
+                    "moon_phase": "New Moon",
+                    "moonrise": "06:32 AM",
+                    "moonset": "05:39 PM",
+                    "sunrise": "07:12 AM",
+                    "sunset": "06:14 PM"
+                }
+            ],
+            "avgtempC": "4",
+            "avgtempF": "39",
+            "date": "2026-10-10",
+            "hourly": [
+                {
+                    "DewPointC": "-8",
+                    "DewPointF": "17",
+                    "FeelsLikeC": "1",
+                    "FeelsLikeF": "33",
+                    "HeatIndexC": "2",
+                    "HeatIndexF": "35",
+                    "WindChillC": "1",
+                    "WindChillF": "33",
+                    "WindGustKmph": "22",
+                    "WindGustMiles": "14",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "19",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "98",
+                    "chanceofrain": "12",
+                    "chanceofremdry": "79",
+                    "chanceofsnow": "23",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "100",
+                    "diffRad": "0.0",
+                    "humidity": "48",
+                    "lang_ru": [
+                        {
+                            "value": "Пасмурно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Пасмурно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1018",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "2",
+                    "tempF": "35",
+                    "time": "0",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "122",
+                    "weatherDesc": [
+                        {
+                            "value": "Overcast "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                        }
+                    ],
+                    "winddir16Point": "WSW",
+                    "winddirDegree": "253",
+                    "windspeedKmph": "4",
+                    "windspeedMiles": "3"
+                },
+                {
+                    "DewPointC": "-8",
+                    "DewPointF": "18",
+                    "FeelsLikeC": "0",
+                    "FeelsLikeF": "33",
+                    "HeatIndexC": "1",
+                    "HeatIndexF": "34",
+                    "WindChillC": "0",
+                    "WindChillF": "33",
+                    "WindGustKmph": "14",
+                    "WindGustMiles": "9",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "28",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "98",
+                    "chanceofrain": "13",
+                    "chanceofremdry": "79",
+                    "chanceofsnow": "21",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "100",
+                    "diffRad": "0.0",
+                    "humidity": "51",
+                    "lang_ru": [
+                        {
+                            "value": "Пасмурно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Пасмурно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1019",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "1",
+                    "tempF": "34",
+                    "time": "300",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "122",
+                    "weatherDesc": [
+                        {
+                            "value": "Overcast "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                        }
+                    ],
+                    "winddir16Point": "WSW",
+                    "winddirDegree": "247",
+                    "windspeedKmph": "4",
+                    "windspeedMiles": "2"
+                },
+                {
+                    "DewPointC": "-8",
+                    "DewPointF": "17",
+                    "FeelsLikeC": "-1",
+                    "FeelsLikeF": "31",
+                    "HeatIndexC": "-1",
+                    "HeatIndexF": "31",
+                    "WindChillC": "-1",
+                    "WindChillF": "31",
+                    "WindGustKmph": "14",
+                    "WindGustMiles": "9",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "62",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "28",
+                    "chanceofrain": "7",
+                    "chanceofremdry": "93",
+                    "chanceofsnow": "18",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "49",
+                    "diffRad": "0.0",
+                    "humidity": "56",
+                    "lang_ru": [
+                        {
+                            "value": "Переменная облачность"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Переменная облачность"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1020",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "-1",
+                    "tempF": "31",
+                    "time": "600",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "116",
+                    "weatherDesc": [
+                        {
+                            "value": "Partly Cloudy "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+                        }
+                    ],
+                    "winddir16Point": "SW",
+                    "winddirDegree": "225",
+                    "windspeedKmph": "3",
+                    "windspeedMiles": "2"
+                },
+                {
+                    "DewPointC": "-7",
+                    "DewPointF": "20",
+                    "FeelsLikeC": "2",
+                    "FeelsLikeF": "36",
+                    "HeatIndexC": "3",
+                    "HeatIndexF": "37",
+                    "WindChillC": "2",
+                    "WindChillF": "36",
+                    "WindGustKmph": "5",
+                    "WindGustMiles": "3",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "7",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "1",
+                    "chanceofrain": "2",
+                    "chanceofremdry": "98",
+                    "chanceofsnow": "3",
+                    "chanceofsunshine": "96",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "5",
+                    "diffRad": "66.8",
+                    "humidity": "49",
+                    "lang_ru": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1020",
+                    "pressureInches": "30",
+                    "shortRad": "153.8",
+                    "tempC": "3",
+                    "tempF": "37",
+                    "time": "900",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Sunny"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                        }
+                    ],
+                    "winddir16Point": "SW",
+                    "winddirDegree": "220",
+                    "windspeedKmph": "4",
+                    "windspeedMiles": "2"
+                },
+                {
+                    "DewPointC": "-6",
+                    "DewPointF": "21",
+                    "FeelsLikeC": "8",
+                    "FeelsLikeF": "46",
+                    "HeatIndexC": "8",
+                    "HeatIndexF": "47",
+                    "WindChillC": "8",
+                    "WindChillF": "46",
+                    "WindGustKmph": "6",
+                    "WindGustMiles": "4",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "1",
+                    "chanceofrain": "1",
+                    "chanceofremdry": "99",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "97",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "4",
+                    "diffRad": "93.4",
+                    "humidity": "35",
+                    "lang_ru": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1019",
+                    "pressureInches": "30",
+                    "shortRad": "507.1",
+                    "tempC": "8",
+                    "tempF": "47",
+                    "time": "1200",
+                    "uvIndex": "2",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Sunny"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                        }
+                    ],
+                    "winddir16Point": "S",
+                    "winddirDegree": "174",
+                    "windspeedKmph": "5",
+                    "windspeedMiles": "3"
+                },
+                {
+                    "DewPointC": "-6",
+                    "DewPointF": "21",
+                    "FeelsLikeC": "10",
+                    "FeelsLikeF": "51",
+                    "HeatIndexC": "11",
+                    "HeatIndexF": "51",
+                    "WindChillC": "10",
+                    "WindChillF": "51",
+                    "WindGustKmph": "7",
+                    "WindGustMiles": "4",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "1",
+                    "chanceofremdry": "99",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "98",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "0",
+                    "diffRad": "89.2",
+                    "humidity": "30",
+                    "lang_ru": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1018",
+                    "pressureInches": "30",
+                    "shortRad": "466.9",
+                    "tempC": "11",
+                    "tempF": "51",
+                    "time": "1500",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Sunny"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                        }
+                    ],
+                    "winddir16Point": "S",
+                    "winddirDegree": "175",
+                    "windspeedKmph": "5",
+                    "windspeedMiles": "3"
+                },
+                {
+                    "DewPointC": "-5",
+                    "DewPointF": "23",
+                    "FeelsLikeC": "5",
+                    "FeelsLikeF": "40",
+                    "HeatIndexC": "5",
+                    "HeatIndexF": "41",
+                    "WindChillC": "5",
+                    "WindChillF": "40",
+                    "WindGustKmph": "4",
+                    "WindGustMiles": "3",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "1",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "2",
+                    "chanceofremdry": "98",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "98",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "0",
+                    "diffRad": "46.0",
+                    "humidity": "47",
+                    "lang_ru": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Солнечно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1018",
+                    "pressureInches": "30",
+                    "shortRad": "71.0",
+                    "tempC": "5",
+                    "tempF": "41",
+                    "time": "1800",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Sunny"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0001_sunny.png"
+                        }
+                    ],
+                    "winddir16Point": "ESE",
+                    "winddirDegree": "110",
+                    "windspeedKmph": "4",
+                    "windspeedMiles": "3"
+                },
+                {
+                    "DewPointC": "-6",
+                    "DewPointF": "21",
+                    "FeelsLikeC": "2",
+                    "FeelsLikeF": "35",
+                    "HeatIndexC": "2",
+                    "HeatIndexF": "36",
+                    "WindChillC": "2",
+                    "WindChillF": "35",
+                    "WindGustKmph": "18",
+                    "WindGustMiles": "11",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "12",
+                    "chanceofhightemp": "1",
+                    "chanceofovercast": "1",
+                    "chanceofrain": "3",
+                    "chanceofremdry": "97",
+                    "chanceofsnow": "3",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "1",
+                    "cloudcover": "5",
+                    "diffRad": "0.0",
+                    "humidity": "55",
+                    "lang_ru": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "lang_xx": [
+                        {
+                            "value": "Ясно"
+                        }
+                    ],
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1019",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "2",
+                    "tempF": "36",
+                    "time": "2100",
+                    "uvIndex": "0",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
+                        }
+                    ],
+                    "winddir16Point": "WSW",
+                    "winddirDegree": "252",
+                    "windspeedKmph": "4",
+                    "windspeedMiles": "2"
+                }
+            ],
+            "maxtempC": "11",
+            "maxtempF": "51",
+            "mintempC": "-1",
+            "mintempF": "30",
+            "sunHour": "11.0",
+            "totalSnow_cm": "0.0",
+            "uvIndex": "2"
+        }
+    ]
+}
