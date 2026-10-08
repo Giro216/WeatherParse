@@ -44,8 +44,6 @@ async def city_process_async(city):
     params = {'format': 'j1'}
     url = 'https://wttr.in/{City}'.format(City=city)
     
-    # Так как urllib блокирующий, выполняем его в отдельном потоке внутри асинхронного приложения,
-    # чтобы не блокировать цикл событий (event loop)
     response_text = await asyncio.to_thread(get_request, url, params)
     
     curr_weather_data = json_parse(response_text, city)
@@ -79,10 +77,8 @@ def print_country_weather(country_weather_data):
 
 async def main():
     cities_file_path = "cities.txt"
-    # Собираем города из генератора в список, чтобы запустить задачи параллельно
     cities = list(read_cities_lazily(cities_file_path))
     
-    # Запускаем все запросы одновременно через asyncio.gather
     tasks = [city_process_async(city) for city in cities]
     results = await asyncio.gather(*tasks)
 
@@ -96,6 +92,5 @@ async def main():
 
     print_country_weather(country_weather_data)
 
-# Точка входа для асинхронного приложения
 if __name__ == "__main__":
     asyncio.run(main())
